@@ -1,31 +1,21 @@
 body{
-    background-color: rgba(255, 255, 255, 0.534);
+    background-color: white);
     font-family: cursive;
     font-size: 20px;
+    color: #16b9b9;
 }
 .pag1{ 
     padding-top: 10%;
+    margin: 0 auto;
 }
 .pie{
-    background-color: rgba(255, 0, 0, 0.473);
+    background-color: rgb(5, 17, 1);
     text-align: center;
     padding-bottom: 15%;
 }
 h1{
     text-align: center;
 }
-#row *{
-    margin-left: auto;
-
-}
-.contenedor{
-    position: relative;
-    display: inline-block;
-    text-align: center;
-}
-.centrado{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+p{
+    color: #33cccc;;
 }
