@@ -19,3 +19,12 @@ h1{
 p{
     color: #33cccc;;
 }
+.formulario{
+    width: 70%;
+    padding-left: 2%;
+    border-bottom: 0.1rem solid rgba(46, 54, 170, 0.342);
+    border-top: 0.1rem solid rgba(46, 54, 170, 0.342);
+    border-left: 0.1rem solid rgba(46, 54, 170, 0.342);
+    border-right: 0.1rem solid rgba(46, 54, 170, 0.349);
+    color: rgba(46, 54, 170, 0.37);
+}
